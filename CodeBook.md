@@ -33,24 +33,24 @@ The R script run_analysis.R accomplishes the following steps to create a tidy da
 
 Variables in the tidy dataset that is created by the run_analysis.R script:
 
-Activity \n
-Subject \n
-Avg-tBodyAcc-mean()-X 
-Avg-tBodyAcc-mean()-Y 
-Avg-tBodyAcc-mean()-Z 
-Avg-tBodyAcc-std()-X 
-Avg-tBodyAcc-std()-Y 
-Avg-tBodyAcc-std()-Z 
-Avg-tGravityAcc-mean()-X 
-Avg-tGravityAcc-mean()-Y 
-Avg-tGravityAcc-mean()-Z 
-Avg-tGravityAcc-std()-X 
-Avg-tGravityAcc-std()-Y 
-Avg-tGravityAcc-std()-Z 
-Avg-tBodyAccJerk-mean()-X 
-Avg-tBodyAccJerk-mean()-Y 
-Avg-tBodyAccJerk-mean()-Z 
-Avg-tBodyAccJerk-std()-X 
+Activity
+Subject
+Avg-tBodyAcc-mean()-X
+Avg-tBodyAcc-mean()-Y
+Avg-tBodyAcc-mean()-Z
+Avg-tBodyAcc-std()-X
+Avg-tBodyAcc-std()-Y
+Avg-tBodyAcc-std()-Z
+Avg-tGravityAcc-mean()-X
+Avg-tGravityAcc-mean()-Y
+Avg-tGravityAcc-mean()-Z
+Avg-tGravityAcc-std()-X
+Avg-tGravityAcc-std()-Y
+Avg-tGravityAcc-std()-Z
+Avg-tBodyAccJerk-mean()-X
+Avg-tBodyAccJerk-mean()-Y
+Avg-tBodyAccJerk-mean()-Z
+Avg-tBodyAccJerk-std()-X
 Avg-tBodyAccJerk-std()-Y 
 Avg-tBodyAccJerk-std()-Z 
 Avg-tBodyGyro-mean()-X 
