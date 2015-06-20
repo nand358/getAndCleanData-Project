@@ -33,8 +33,8 @@ The R script run_analysis.R accomplishes the following steps to create a tidy da
 
 Variables in the tidy dataset that is created by the run_analysis.R script:
 
-Activity 
-Subject 
+Activity \n
+Subject \n
 Avg-tBodyAcc-mean()-X 
 Avg-tBodyAcc-mean()-Y 
 Avg-tBodyAcc-mean()-Z 
